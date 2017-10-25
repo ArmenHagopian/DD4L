@@ -1,2 +1,2 @@
 language: java
-script: Test_junit.java
+script: java Test_junit.java
