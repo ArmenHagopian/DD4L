@@ -3,9 +3,9 @@
 import java.awt. Point;
  
 /**
-* Interface qui décrit une pièce d'un jeu de plateau
+* Interface qui dÃ©crit une piÃ¨ce d'un jeu de plateau
 *
-* @author Sébastien Combéfis
+* @author SÃ©bastien CombÃ©fis
 * @version 02-mai-08
 */
 public interface Piece
