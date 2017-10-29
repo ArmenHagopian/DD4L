@@ -1,9 +1,9 @@
 // Direction.java
  
 /**
-* Énumération qui représente des directions de mouvement d'une pièce
+* Ã‰numÃ©ration qui reprÃ©sente des directions de mouvement d'une piÃ¨ce
 *
-* @author Sébastien Combéfis
+* @author SÃ©bastien CombÃ©fis
 * @version 02-mai-08
 */
 public enum Direction
