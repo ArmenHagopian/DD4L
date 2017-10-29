@@ -1,8 +1,9 @@
+package DD4L;
+
+import DD4L.Calculate;
 import java.util.Scanner;
-
-import static org.junit.jupiter.api.Assertions.assertEquals;
-
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
+import static org.junit.Assert.*;
 
 public class Program {
 	public static void main(String[]args)

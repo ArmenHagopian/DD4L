@@ -1,13 +1,16 @@
-import static org.junit.jupiter.api.Assertions.assertEquals;
+package DD4L;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
+import static org.junit.Assert.*;
 
 public class Test_junit {
+    public Test_junit(){
+    }
     @Test
-    void myFirstTest() {
+    public void myFirstTest() {
     	Calculate test = new Calculate();
-        assertEquals(2, test.Sqrt(4));
-        assertEquals(-1, test.Sqrt(-7));
+        //assertEquals(2, test.Sqrt(4));
+        //assertEquals(-1, test.Sqrt(-7));
         Age age = new Age(1996, 21);
         assertEquals(21, age.getAge());
         assertEquals(1996, age.getBirth());

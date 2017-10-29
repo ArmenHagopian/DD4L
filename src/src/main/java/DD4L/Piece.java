@@ -1,5 +1,6 @@
 // Piece.java
- 
+ package DD4L;
+
 import java.awt. Point;
  
 /**

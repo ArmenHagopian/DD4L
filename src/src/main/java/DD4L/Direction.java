@@ -1,5 +1,6 @@
 // Direction.java
- 
+ package DD4L;
+
 /**
 * Énumération qui représente des directions de mouvement d'une pièce
 *
