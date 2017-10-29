@@ -15,7 +15,7 @@ public class Calculate {
 	       Tablecar[i ]= Tablecar[j];
 	       Tablecar[j] = car;
 	     }
-		 System.out.println("tableau après : " + String.valueOf(Tablecar));
+		 System.out.println("tableau aprÃ¨s : " + String.valueOf(Tablecar));
 	}
 	public double Sqrt(double a)
 	{
